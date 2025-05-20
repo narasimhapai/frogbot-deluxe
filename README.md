@@ -14,3 +14,5 @@ The configuration is stored in a file called `frogbot-config.yml` in the root of
 configuration variables used by both modes of Frogbot.
 
 foo
+##pai
+faa
