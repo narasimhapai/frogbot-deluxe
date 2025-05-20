@@ -15,3 +15,4 @@ configuration variables used by both modes of Frogbot.
 
 foo
 ##pai
+faa
